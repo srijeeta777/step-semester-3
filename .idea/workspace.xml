@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35e466f4-09ca-4a0a-b903-798b5218f169" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignments/LibraryBookCataloguing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/PayrollBatchBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/EmplyeeStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/HallTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/M1_BookInventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/PayrollAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Problems/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Problems/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Problems/IdCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Problems/MessWallet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Problems/PlacementRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Problems/Student.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IYT74Q7dXoNNVDTKVy9Sn1BAJ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Course.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.EmployeeStatic.executor": "Run",
+    "Application.HallTicket.executor": "Run",
+    "Application.IdCard.executor": "Run",
+    "Application.LibraryBookCataloguing.executor": "Run",
+    "Application.M1_BookInventory.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MessWallet.executor": "Run",
+    "Application.Messwallet.executor": "Run",
+    "Application.PayrollAccount.executor": "Run",
+    "Application.PayrollBatchBonus.executor": "Run",
+    "Application.PlacementRecord.executor": "Run",
+    "Application.Student.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/week4",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="LibraryBookCataloguing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LibraryBookCataloguing" />
+      <module name="step-semester-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibraryBookCataloguing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e466f4-09ca-4a0a-b903-798b5218f169" name="Changes" comment="" />
+      <created>1787940334198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787940334198</updated>
+    </task>
+    <servers />
+  </component>
+</project>
